@@ -56,7 +56,7 @@ export const projectsData = [
     title: 'Youtube Clone',
     info: 'Youtube clone with recommended videos and search option. This project was built with React, Youtube API and SCSS',
     info2: '',
-    url: 'https://onionsequences.github.io/',
+    url: 'https://onionsequences.github.io/react-youtube-clone/',
     repo: 'https://github.com/onionSequences/react-youtube-clone', // if no repo, the button will not show up
   },
   {
