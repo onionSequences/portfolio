@@ -25,7 +25,7 @@ export const aboutData = {
     "Fast-forward to today I've had the privilege of working at start-up, where my job was to create 360° Virtual Tours.",
   paragraphFour: 'Now, I am growing myself as a front-end developer.',
   paragraphFive: 'My current stack of languages/technologies are:',
-  resume: '/NikolaKikanovicCV.pdf', // if no resume, the button will not show up
+  resume: '/Nikola-Kikanovic-Frontend-Developer-CV.pdf', // if no resume, the button will not show up
   techSkills: [
     { icon: 'react.png', name: 'React.Js' },
     { icon: 'javascript.png', name: 'JavaScript' },

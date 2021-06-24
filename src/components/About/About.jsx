@@ -5,7 +5,7 @@ import Title from '../Title/Title';
 import AboutImg from '../Image/AboutImg';
 import AboutSkillsIcon from '../Image/AboutSkillsIcon';
 import PortfolioContext from '../../context/context';
-import File from '../../pdf/Resume.pdf';
+import File from '../../pdf/Nikola-Kikanovic-Frontend-Developer-CV.pdf';
 
 const About = () => {
   const { about } = useContext(PortfolioContext);
